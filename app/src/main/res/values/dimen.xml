@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSizeCalculationEqualition">32sp</dimen>
+    <dimen name="textSizeCalculationOutcome">24sp</dimen>
+    <dimen name="sizeIcon">24dp</dimen>
+    <dimen name="textSizeInputElementor">32sp</dimen>
+</resources>

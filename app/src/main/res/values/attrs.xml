@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    these are attributes we can set for our custom view -->
+    <declare-styleable name="CalculatorInputView">
+        <attr name="item_text" format="string"/>
+        <attr name="item_icon" format="reference"/>
+    </declare-styleable>
+<!--    reference means that its gonna reference to something else like a color or a drawable or graphic
+ whatever it like and another resource we have in the app  -->
+</resources>
